@@ -42,10 +42,10 @@
 <p>C:\Users\DY.ssh</p>
 <p>id_rsa.pub</p>
 <p>密匙放在git官网保存</p>
-<p><img src="C:%5CUsers%5CDY%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1595419077045.png" alt="1595419077045"></p>
+<p><img src="/other-images/1595419077045.png" alt="1595419077045"></p>
 <h3 id="hexo安装（blog模板）"><a href="#hexo安装（blog模板）" class="headerlink" title="hexo安装（blog模板）"></a>hexo安装（blog模板）</h3><p>管理员运行cmd</p>
 <p> npm install hexo-cli -g </p>
-<p><img src="C:%5CUsers%5CDY%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1595419175566.png" alt="1595419175566"></p>
+<p><img src="/other-images/1595419175566.png" alt="1595419175566"></p>
 <p>依次完成</p>
 <p>blog可以自己设置博客名字</p>
 <h3 id="sublime安装（文本编辑器）"><a href="#sublime安装（文本编辑器）" class="headerlink" title="sublime安装（文本编辑器）"></a>sublime安装（文本编辑器）</h3><p>一条龙安装</p>
